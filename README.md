@@ -12,6 +12,3 @@ Lending Club Case Study
 * Observations from Univariate and Segmented Univariate Analysis
 * Bivariate or Multivariate Analysis
 * Observations from Bivariate or Multivariate Analysis
-
-Author
-* Srinath Tummala (tummalasric@gmail.com)
